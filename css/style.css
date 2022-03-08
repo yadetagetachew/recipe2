@@ -1,0 +1,9 @@
+.jumbotron{
+    height: 70vh;
+    background-image: url(/img/grill-smoke.jpg);
+    background-position: 20% 60%;
+    opacity: .95;
+}
+.btn{
+    font-size: large;
+}
